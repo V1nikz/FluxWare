@@ -25,6 +25,16 @@
 >• Team Check for ESP  
 >• Old bug fixes  
 
+# To install:
+
+> [!WARNING]
+> Python 3.10+  
+>```sh
+>pip install requests psutil pywin32 pyautogui glfw imgui[glfw] PyOpenGL Pillow numpy scipy
+>```
+>If you're downloading the .exe file, you don't need to download anything else.
+
+
 
 
 
