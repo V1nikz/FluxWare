@@ -34,6 +34,12 @@
 >```
 >If you're downloading the .exe file, you don't need to download anything else.
 
+# Extremely important
+> [!CAUTION]
+> Without a C++ compiler, you won't be able to install the glfw imgui[glfw] library.  
+> [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/)
+
+
 
 
 
